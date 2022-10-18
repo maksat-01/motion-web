@@ -8,6 +8,7 @@ const Header = () => {
     <section id="about">
         <div className="about">
             <div className="about--general">
+                <h1>maksat</h1>
                 <h1>MOTION WEB IT <br/>STUDIO</h1>
                 <div className="about--general__line"></div>
                 <div className="about--general__title">
