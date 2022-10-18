@@ -9,6 +9,7 @@ const Hero = () => {
             <section id="scroll">
                 <div className="scroll">
                     <div className="scroll--general">
+                        <h1>aknazar</h1>
                         <h1>Motion Web LLC</h1>
                         <h2>KEE <br/>P <br/>SCR<br/>OLL <br/>ING</h2>
                     </div>
